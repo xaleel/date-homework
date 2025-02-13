@@ -48,4 +48,6 @@ After implementing a method, run `node test.js` to see result of all tests. If y
 
 #### Note: all methods must be pure; Date objects passed as arguments must not be mutated
 
+## DONT USE ANY AI!!
+
 ## Good luck!
